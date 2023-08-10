@@ -7,3 +7,6 @@ Alur fitur Login:
 3. Memvalidasi penggunan dengan deteksi wajah
 4. Memasukan nama ibu unruk validasi
 5. Menampilkan halaman Home
+
+Menambahkan deskripsi menggunakan akun lain 
+latihan fork
